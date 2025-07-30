@@ -1,5 +1,5 @@
-**ShoppingWise DI - Demo 001**
-# **By Grounded DI / MSW** 
+# **ShoppingWise DI - Demo 001**
+**By Grounded DI**
 **Date:** July 30, 2025  
 
 **Introduction**

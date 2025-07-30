@@ -14,8 +14,6 @@ Welcome to **DI-ShoppingWise** — a trust-first, consumer integrity engine powe
 | 🧒 KidShield       | Safety filter for child-targeted products 
 | 🏷️ BrandCheck      | Brand-wide ethical tier mapping (1–X)
 
-## 🛑 Disclaimer
-Built by **Grounded DI / MSW**. 
-Just grounded integrity.
+Built by **Grounded DIW**. 
 
 #DeterministicIntelligence #DI #ShoppingWise

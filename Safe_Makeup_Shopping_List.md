@@ -1,4 +1,4 @@
-# **ShoppingWise DI - Demo 001**
+# **ShoppingWise DI - Safe Brands of Makeup 
 **By Grounded DI**
 **Date:** July 30, 2025  
 

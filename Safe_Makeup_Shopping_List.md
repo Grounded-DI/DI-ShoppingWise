@@ -1,6 +1,6 @@
 **ShoppingWise DI - Demo 001**
-**By Grounded DI / MSW** 
-*Date:** July 30, 2025  
+# **By Grounded DI / MSW** 
+**Date:** July 30, 2025  
 
 **Introduction**
 ShoppingWise DI is the first consumer tool built on deterministic intelligence — meaning its evaluations follow fixed logic, not guesses or black-box algorithms. Unlike traditional review filters or AI shopping assistants, it delivers transparent, logic-governed outputs that are consistent, auditable, and aligned with real-world integrity. Each mode is purpose-built: from quick scans to deep trust audits, every result can be traced back to structured reasoning, not fuzzy trends. This makes ShoppingWise DI uniquely reliable in a world where reviews and product info are increasingly uncertain. It's not just smart — it's principled.

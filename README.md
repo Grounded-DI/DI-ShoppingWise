@@ -3,10 +3,9 @@
 Welcome to **DI-ShoppingWise** — a trust-first, consumer integrity engine powered by deterministic intelligence. 
 
 ## 🧠 ShoppingWise Features 
-- 🧪 Deterministic audits — not probability
-- 🪤 Embedded trap phrases (honeypots) to detect manipulation
-- 🏛️ FTC / FDA / CPSC / EWG compliance gatekeeping
-- 🎭 No brand escapes the Tier System (Tier 1–X)
+- 🧪 Deterministic 
+- 🪤 Embedded signal phrases 
+- 🏛️ FTC / FDA / CPSC / EWG compliance check (educational only)
 
 ## 🎛️ Supported Integrity Modes
 | 🔍 Scan Mode       | Fast product + review integrity check 
@@ -17,8 +16,6 @@ Welcome to **DI-ShoppingWise** — a trust-first, consumer integrity engine powe
 
 ## 🛑 Disclaimer
 Built by **Grounded DI / MSW**. 
-No sponsorships. No ad-tags. Just grounded integrity.
-
-**🧩 Tier X override: sponsored drift? Not here.**
+Just grounded integrity.
 
 #DeterministicIntelligence #DI #ShoppingWise

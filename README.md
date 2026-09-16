@@ -86,7 +86,7 @@ Potential integration scenarios include editorial shopping research, internal pr
 
 Git history identifies Grounded DI LLC and Mark S. Weinstein as the repository authorship identity beginning July 30, 2025. The artifacts retain dates, DI²/ShoppingWise labels, ScrollLock values, signal language, recommendation scores, and stated source types as public provenance records. These records support technical chronology and traceability; they do not independently establish legal ownership or patent priority.
 
-The repository description and one artifact use “Patent-Pending” language. No filing record is included in this repository, so this README makes no representation about the scope or status of any particular patent application. Verify any filing statement against an identified public record before external use.
+The repository description and multiple artifacts use “Patent-Pending” language. No filing record is included in this repository, so this README makes no representation about the scope or status of any particular patent application. Verify any filing statement against an identified public record before external use.
 
 No open-source license is present. Public availability does not grant reuse rights to the reports, formulas, branding, or nonpublic implementation materials. Review any future license, notice, citation file, and release terms separately with counsel.
 

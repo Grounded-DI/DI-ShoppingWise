@@ -80,7 +80,7 @@ Start with `ShoppingWise_Clarity_Audit` to see the claim and override structure.
 
 The public archive can support a scoped proof of concept for transparent product research: normalize a user brief, preserve source snapshots, evaluate claims against an approved rule set, route uncertain or high-risk claims to a human, and export a reasoned recommendation with receipts. A responsible pilot would add current source retrieval, provenance capture, conflict handling, accessibility and bias review, and a clear correction path.
 
-Potential integration scenarios include editorial shopping research, internal product-content QA, and consumer-protection review. Nothing in this repository establishes a deployed service, customer adoption, compliance certification, or product-safety guarantee. Commercial licensing and integration inquiries: **[CONTACT PLACEHOLDER]**.
+Potential integration scenarios include editorial shopping research, internal product-content QA, and consumer-protection review. Nothing in this repository establishes a deployed service, customer adoption, compliance certification, or product-safety guarantee. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship, Provenance, and Intellectual Property
 
